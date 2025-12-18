@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "砂の惑星",
+  "base_artist": "ハチ",
+  "createdAt": "2025-12-18T08:12:44.653568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "砂の惑星 ( + 初音ミク )",
+      "artist": "Kenshi Yonezu feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/01_砂の惑星_(_+_初音ミク_)_Kenshi_Yonezu_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "Kenshi Yonezu + Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_砂の惑星_Kenshi_Yonezu_+_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "砂の惑星 feat.初音ミク",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/03_砂の惑星_feat.初音ミク_hachi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sand Planet (English Cover)【JubyPhonic】砂の惑星",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/04_Sand_Planet_(English_Cover)【JubyPhonic】砂の惑星_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/05_砂の惑星_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "砂の惑星 ( + 初音ミク )",
+      "artist": "Kenshi Yonezu/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/06_砂の惑星_(_+_初音ミク_)_Kenshi_Yonezu_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/07_砂の惑星_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "松任谷由実",
+      "has_synced": false,
+      "path": "select/08_砂の惑星_松任谷由実.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "砂の惑星 (Suna no Wakusei)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/09_砂の惑星_(Suna_no_Wakusei)_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "ハチ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_砂の惑星_ハチ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "砂の惑星 (   初音ミク ) - Sunanowakusei (  Hatsune Miku)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_砂の惑星_(_初音ミク_)_-_Sunanowakusei_(_Hatsune_Miku)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "砂の惑星 feat.初音ミク",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/12_砂の惑星_feat.初音ミク_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "Yonezu, Kenshi + Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/13_砂の惑星_Yonezu,_Kenshi_+_Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "砂の惑星 ( + 初音ミク )",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/14_砂の惑星_(_+_初音ミク_)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "砂の惑星",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/15_砂の惑星_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "砂の惑星 feat.初音ミク",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/16_砂の惑星_feat.初音ミク_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "砂の惑星 - DUNE (feat. Hatsune Miku)",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/17_砂の惑星_-_DUNE_(feat._Hatsune_Miku)_HACHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "砂の惑星",
+      "artist": "ハチ feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_砂の惑星_ハチ_feat.初音ミク.txt"
+    }
+  ]
+}
